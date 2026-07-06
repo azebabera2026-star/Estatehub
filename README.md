@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EstateHub — Property Listing Platform (Frontend Prototype)
 
 A frontend-only, fully interactive real estate UI built with **React + TypeScript + Vite + Tailwind CSS**.
@@ -99,3 +100,6 @@ call any network API.
   production use.
 - The "mock location map" on the property detail page is a stylized placeholder (blueprint grid +
   coordinates), not a real map integration — wire in Mapbox/Google Maps if you need a live map.
+=======
+# Estatehub
+>>>>>>> b496e3a017ff1cfb07a1e4a9757cff36b4803f8d
